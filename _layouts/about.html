@@ -27,10 +27,21 @@ layout: default
             </div>
             {%- endif %}
           </div>
+            
+          </div>
           {%- endif %}
 
           <div class="clearfix">
             {{ content }}
+          <!-- Social -->
+          <div class="social">
+            <div class="contact-icons">
+            {% include social.html %}
+            </div>
+
+            <div class="contact-note">
+              {{ site.contact_note }}
+            </div>
           </div>
 
           {% if page.news -%}
@@ -42,17 +53,6 @@ layout: default
             {%- include selected_papers.html %}
           {%- endif %}
           {%- if page.social %}
-          <!-- Social -->
-          <div class="social">
-            <div class="contact-icons">
-            {% include social.html %}
-            </div>
-
-            <div class="contact-note">
-              {{ site.contact_note }}
-            </div>
-            
-          </div>
           {%- endif %}
         </article>
 
