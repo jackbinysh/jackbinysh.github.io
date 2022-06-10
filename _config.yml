@@ -7,8 +7,7 @@ first_name: Jack
 middle_name: 
 last_name: Binysh
 email: 
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+description: Researcher #test the ">" symbol means to ignore newlines until "footer_text:" A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
@@ -54,9 +53,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: jackbinysh 
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
+twitter_username: jackbinysh
 linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: TrA0CKUAAAAJ
 orcid_id: 0000-0002-4880-0942 
 medium_username: # your Medium username
 quora_username: # your Quora username
