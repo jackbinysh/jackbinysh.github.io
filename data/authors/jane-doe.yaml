@@ -1,0 +1,22 @@
+name:
+  display: Dr. Jane Doe
+role: Postdoctoral Researcher
+bio: Research interests include machine learning and computational biology.
+interests:
+  - Machine Learning
+  - Computational Biology
+  - Data Science
+affiliations:
+  - name: University of Excellence
+    url: https://example.edu
+links:
+  - icon: envelope
+    url: 'mailto:jane@example.edu'
+  - icon: twitter
+    url: https://x.com/janedoe
+  - icon: github
+    url: https://github.com/janedoe
+user_groups:
+  - Postdoctoral Researchers
+graduation_year: 2024
+
