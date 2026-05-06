@@ -1,2 +1,0 @@
-- add talk videos
-- make publications page
