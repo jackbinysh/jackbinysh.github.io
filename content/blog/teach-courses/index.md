@@ -1,6 +1,6 @@
 ---
-title: 👩🏼‍🏫 Teach academic courses
-summary: Embed videos, podcasts, code, LaTeX math, and even test students!
+title: Teach academic courses
+summary: Embedsfdsd videos, podcasts, code, LaTeX math, and even test students!
 date: 2023-10-24
 math: true
 authors:
@@ -10,7 +10,7 @@ tags:
   - HugoBlox Kit
   - Markdown
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Embedsfadsd rich meddafsia such as videos and LaTeX math'
 cover:
   image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
   position:
@@ -26,6 +26,8 @@ cover:
     height: "80px"
   icon:
     name: "✨"
+
+draft: true
 ---
 
 [HugoBlox Kit](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the HugoBlox Kit which this template is built upon handles the rest.

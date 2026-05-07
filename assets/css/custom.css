@@ -1,0 +1,23 @@
+/* killing the card movement on hover with a custom class injector*/
+
+.no-card-hover [role="article"],
+.no-card-hover [role="article"]:hover {
+  --tw-translate-y: 0 !important;
+  translate: 0 0 !important;
+  transform: none !important;
+}
+
+.no-card-hover .hover\:-translate-y-2:hover {
+  --tw-translate-y: 0 !important;
+  translate: 0 0 !important;
+  transform: none !important;
+}
+
+.no-card-hover img,
+.no-card-hover img:hover,
+.no-card-hover .group:hover img {
+  --tw-scale-x: 1 !important;
+  --tw-scale-y: 1 !important;
+  scale: 1 !important;
+  transform: none !important;
+}

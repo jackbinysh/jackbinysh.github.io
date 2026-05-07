@@ -1,0 +1,24 @@
+/* Target the collection cards directly */
+.hb-card {
+  /* Rounding: change 2rem to 0px for square, or 3rem for very round */
+  border-radius: 2rem !important;
+  
+  /* Remove the "lifting" hover effect */
+  transform: none !important;
+  
+  /* Add a subtle shadow transition instead */
+  transition: box-shadow 0.3s ease-in-out !important;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1) !important;
+}
+
+.hb-card:hover {
+  /* Customize what happens on hover */
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1) !important;
+  border-color: #3b82f6 !important; /* Blue border on hover */
+}
+
+/* Optional: Round the images inside the cards too */
+.hb-card img {
+  border-radius: 1.5rem !important;
+}
+

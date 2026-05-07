@@ -9,7 +9,7 @@ sections:
       subtitle: World-class researchers advancing science
       text: Our diverse team brings together expertise from multiple disciplines.
       user_groups:
-        - Principal Investigators
+        - Researchers
         - Postdoctoral Researchers
         - PhD Students
         - name: Alumni          # optional per-group sort override
@@ -24,6 +24,7 @@ sections:
     design:
       show_role: true
       show_organizations: true
+      show_education: true
       show_interests: true
       max_interests: 3   # set 0 to hide interests even if provided
       align: center      # or "left" to align header + CTA left

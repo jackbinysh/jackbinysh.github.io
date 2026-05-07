@@ -6,7 +6,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Research
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -30,7 +30,15 @@ sections:
       # Choose a layout view
       view: article-grid
       columns: 3
+      show_categories: false
+      show_date: false       # Toggle the publication date
+      show_read_time: false   # Toggle "X min read"
+      show_read_more: false  # Show/hide the "Read more" link
+      fill_image: true       # When true, the image covers the top of the card
+      css_class: "no-card-hover"
+
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+
 ---

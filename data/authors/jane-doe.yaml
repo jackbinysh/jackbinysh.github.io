@@ -1,14 +1,32 @@
 name:
   display: Dr. Jane Doe
-role: Postdoctoral Researcher
+role: Researchers
 bio: Research interests include machine learning and computational biology.
 interests:
   - Machine Learning
   - Computational Biology
   - Data Science
+education:
+  - degree: PhD Computer Science
+    institution: Stanford University
+    start: 2015-09-01
+    end: 2019-06-30
+    summary: |
+      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+    button:
+      text: Download dissertation
+      url: /resume.pdf
+      icon: hero/arrow-down-tray
+  - degree: MS Computer Science
+    institution: Carnegie Mellon University
+    start: 2013-09-01
+    end: 2015-05-31
+  - degree: BS Computer Science
+    institution: MIT
+    start: 2009-09-01
+    end: 2013-05-31
 affiliations:
-  - name: University of Excellence
-    url: https://example.edu
+  - name: University of Excellence3
 links:
   - icon: envelope
     url: 'mailto:jane@example.edu'
@@ -16,7 +34,6 @@ links:
     url: https://x.com/janedoe
   - icon: github
     url: https://github.com/janedoe
-user_groups:
-  - Postdoctoral Researchers
+#user_groups:
+#  - Researchers
 graduation_year: 2024
-
