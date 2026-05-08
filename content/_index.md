@@ -30,6 +30,11 @@ sections:
         text_color_light: true
   #
   #
+  - block: markdown
+    content:
+      title: 
+      text: We are part of the department of Mechanical Engineering at the University of Birmingham. {{< figure src="School-of-Engineering.jpg" title="University of Birmingham" >}}
+
   - block: collection
     id: talks
     content:
