@@ -1,6 +1,6 @@
 ---
 name:
-  display: Opportunities
+  display: Positions
 role: 
 weight: 1
 user_groups:

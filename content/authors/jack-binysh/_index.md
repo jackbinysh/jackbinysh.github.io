@@ -16,4 +16,3 @@ bio:  "
 user_groups:
   - Researchers
 ---
-

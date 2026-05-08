@@ -10,9 +10,9 @@ sections:
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: blog
+      page_type: research # where to search in teh file system 
       # Choose how many pages you would like to display (0 = all pages)
-      count: 10
+      count: 0
       # Filter on criteria
       filters:
         author: ''
@@ -35,10 +35,6 @@ sections:
       show_read_time: false   # Toggle "X min read"
       show_read_more: false  # Show/hide the "Read more" link
       fill_image: true       # When true, the image covers the top of the card
-      css_class: "no-card-hover"
 
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
 
 ---

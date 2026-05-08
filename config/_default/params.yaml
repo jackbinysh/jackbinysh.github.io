@@ -6,12 +6,7 @@
 # ══════════════════════════════════════════════════════════════════════════════
 
 # global settings for the site, where I kill reading time, stuff in the footer etc.
-cascade:
-  - params:
-      show_date: false
-      reading_time: false
-      share: false
-      profile: false
+
 
 hugoblox:
   schema: "2.0"
@@ -108,9 +103,9 @@ hugoblox:
     # Menu alignment
     align: center # left | center | right
     # Feature toggles
-    search: true
-    theme_toggle: true
-    theme_picker: true
+    search: false
+    theme_toggle: false
+    theme_picker: false
     language_switcher: true
     # Call-to-action button
     cta:

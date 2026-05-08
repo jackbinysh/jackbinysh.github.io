@@ -6,17 +6,20 @@
 main:
   - name: Home
     url: /
-    weight: 10
-  - name: Team
-    url: /team
-    weight: 10
+    weight: 1
+  - name: News
+    url: /news
+    weight: 2
   - name: Research
     url: /research
-    weight: 10
-  - name: Publications
-    url: /publicationspage
-    weight: 10
+    weight: 3
+  - name: Team
+    url: /team
+    weight: 4
   - name: Positions
     url: /positions
-    weight: 10
+    weight: 5
+  - name: Publications
+    url: /publicationspage
+    weight: 6
   

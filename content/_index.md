@@ -28,15 +28,24 @@ sections:
           start: primary-500
           end: secondary-500
         text_color_light: true
+  #
+  #
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: News
       filters:
         folders:
-          - events
+          - news
     design:
-      view: card
+      view: article-grid
+      # Choose a layout view
+      columns: 2
+      show_categories: false
+      show_date: false       # Toggle the publication date
+      show_read_time: false   # Toggle "X min read"
+      show_read_more: false  # Show/hide the "Read more" link
+      fill_image: true       # When true, the image covers the top of the card
 ---
 
 

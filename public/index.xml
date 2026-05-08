@@ -7,10 +7,25 @@
     <description></description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
+      <url>http://localhost:1313/media/icon_hu_ffaa3acb8f3718e4.png</url>
       <title></title>
       <link>http://localhost:1313/</link>
     </image>
+    
+    <item>
+      <title> &#34;Nonreciprocal buckling...&#34; featured on the cover of PNAS</title>
+      <link>http://localhost:1313/news/nonreciprocalbucklingnews/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nonreciprocalbucklingnews/</guid>
+      <description>&lt;p&gt;Out now in 
+.&lt;/p&gt;
+&lt;h2 id=&#34;associated-publications&#34;&gt;Associated Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>More Is Less in Unpercolated Active Solids</title>
@@ -77,26 +92,43 @@
     </item>
     
     <item>
-      <title>Mechanical Metamaterials</title>
-      <link>http://localhost:1313/blog/mechanicalmetamaterials/</link>
+      <title>&#34;More is less..&#34; is featured in Physics Viewpoint</title>
+      <link>http://localhost:1313/news/moreislessnews/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/mechanicalmetamaterials/</guid>
-      <description>&lt;ol&gt;
-&lt;li&gt;The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
-&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having&lt;/li&gt;
-&lt;/ol&gt;
+      <guid>http://localhost:1313/news/moreislessnews/</guid>
+      <description>&lt;p&gt;&amp;quot;More is less..&amp;quot; is featured in Physics Viewpoint, with commentary by Tzer Han Tan 
+. Thanks Tzer Han!&lt;/p&gt;
+&lt;h2 id=&#34;associated-publications&#34;&gt;Associated Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mechanical Metamaterials</title>
+      <link>http://localhost:1313/research/mechanicalmetamaterials/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/mechanicalmetamaterials/</guid>
+      <description>&lt;h2 id=&#34;associated-publications&#34;&gt;Associated Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Soft Robotics</title>
-      <link>http://localhost:1313/blog/softrobotics/</link>
+      <link>http://localhost:1313/research/softrobotics/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/softrobotics/</guid>
-      <description>&lt;ol&gt;
-&lt;li&gt;The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
-&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having&lt;/li&gt;
-&lt;/ol&gt;
+      <guid>http://localhost:1313/research/softrobotics/</guid>
+      <description>&lt;h2 id=&#34;associated-publications&#34;&gt;Associated Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

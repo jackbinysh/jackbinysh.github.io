@@ -34,7 +34,5 @@ tags:
 #content_meta:
 #  trending: true
 ---
-
-
-1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having 
+## Associated Publications
+- [More is Less in Unpercolated Active Solids](http://localhost:1313/publications/more-is-less-in-unpercolated-active-solids/)
