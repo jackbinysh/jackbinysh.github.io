@@ -1,12 +1,15 @@
 ---
-title: "An example journal article"
+title: "More is less in unpercolated active solids"
 authors:
-- me
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- Jack Binysh
+- Guido Baardink
+- Jonas Veenstra
+- Corentin Coulais
+- Anton Souslov
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
+date: "2026-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -17,13 +20,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "PRX"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "A remarkable feat of active matter physics is that systems as diverse as collections of self-propelled particles, nematics mixed with molecular motors, and interacting robots can all be described by symmetrybased continuum theories. These descriptions rely on reducing complex effects of individual motors to a few key active parameters, which increase with activity. Here we observe a striking anomaly in the continuum description of nonreciprocal active solids, a ubiquitous class of active materials. Using a combination of metamaterial experiments and coarse-graining theory we find that as microscopic activity increases, macroscale active response can vanish: more is less. In this highly active regime, nonaffine and localized modes prevail and destroy the large-scale signature of microscopic activity. These modes exist in any dilute periodic structure and emerge in random lattices below a percolation transition. Our results unveil a counterintuitive facet of active matter, offering new principles for engineering materials far from equilibrium."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -54,7 +57,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
@@ -72,11 +75,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-> [!NOTE]
-> Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

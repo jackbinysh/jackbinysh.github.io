@@ -9,7 +9,8 @@ sections:
       subtitle: World-class researchers advancing science
       text: Our diverse team brings together expertise from multiple disciplines.
       user_groups:
-        - Researchers
+        - name: Researchers
+          sort_by: weight
         - Postdoctoral Researchers
         - PhD Students
         - name: Alumni          # optional per-group sort override

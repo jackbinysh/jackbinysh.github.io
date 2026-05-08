@@ -1,5 +1,8 @@
 name:
   display: Jack Binysh (PI)
+
+weight: 1000
+
 bio:  "
 -**Assistant Professor**, University of Birmingham
 <br>
@@ -11,3 +14,4 @@ bio:  "
 "
 user_groups:
   - Researchers
+
