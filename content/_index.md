@@ -8,8 +8,8 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Building aligned AI together
-      text: Human-centred research, transparent tooling, and production-ready stacks.
+      title: Robotic Metamaterials
+      text: robots
       announcement:
         text: Latest preprint is live
         link:
@@ -28,13 +28,28 @@ sections:
           start: primary-500
           end: secondary-500
         text_color_light: true
-  #
-  #
   - block: markdown
     content:
       title: 
-      text: We are part of the department of Mechanical Engineering at the University of Birmingham. {{< figure src="School-of-Engineering.jpg" title="University of Birmingham" >}}
+      text: |
+        <div class="grid md:grid-cols-2 gap-8 items-center" markdown="1">
 
+        <div>
+
+        ## Our Lab
+
+        We develop robotic metamaterials and active solids with distributed sensing, actuation, and control.
+        </div>
+
+        <div>
+
+        ![University of Birmingham](University-of-Birmingham-Profile-Picture.webp)
+
+        </div>
+
+        </div>
+      
+      
   - block: collection
     id: talks
     content:
