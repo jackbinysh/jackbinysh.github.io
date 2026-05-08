@@ -1,0 +1,8 @@
+name:
+  display: positions
+weight: 1
+bio:  "
+- See the positions page for current openings.
+"
+user_groups:
+  - Researchers

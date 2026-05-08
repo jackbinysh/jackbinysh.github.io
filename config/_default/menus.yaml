@@ -16,4 +16,7 @@ main:
   - name: Publications
     url: /publicationspage
     weight: 10
+  - name: Positions
+    url: /positions
+    weight: 10
   

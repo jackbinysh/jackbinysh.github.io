@@ -5,9 +5,9 @@ type: landing
 sections:
   - block: team-showcase
     content:
-      title: Meet Our Team
-      subtitle: World-class researchers advancing science
-      text: Our diverse team brings together expertise from multiple disciplines.
+      title:  Team
+      subtitle: ""
+      text: ""
       user_groups:
         - name: Researchers
           sort_by: weight

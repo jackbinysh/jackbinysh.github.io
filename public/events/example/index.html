@@ -7004,9 +7004,9 @@
   
   <meta property="twitter:card" content="summary_large_image" />
   
-  <meta property="og:site_name" content="Your Name" />
+  <meta property="og:site_name" content="BinyshLab" />
   <meta property="og:url" content="http://localhost:1313/events/example/" />
-  <meta property="og:title" content="Create Beautiful Presentations with Markdown | Your Name" />
+  <meta property="og:title" content="Create Beautiful Presentations with Markdown | BinyshLab" />
   <meta property="og:description" content="Discover how to create stunning, interactive presentations using simple Markdown — no PowerPoint, Keynote, or vendor lock-in required." /><meta property="og:image" content="http://localhost:1313/events/example/featured.jpg" />
     <meta property="twitter:image" content="http://localhost:1313/events/example/featured.jpg" /><meta property="og:locale" content="en-us" />
   
@@ -7150,7 +7150,7 @@
 
 
 
-  <title>Create Beautiful Presentations with Markdown | Your Name</title>
+  <title>Create Beautiful Presentations with Markdown | BinyshLab</title>
 
   
   
@@ -8029,13 +8029,13 @@
   <nav class="navbar px-3 flex justify-start">
     <div class="order-0 h-full">
       
-      <a class="navbar-brand" href="/" title="Your Name">
+      <a class="navbar-brand" href="/" title="BinyshLab">
         
         
         
         
         
-        Your Name
+        BinyshLab
       </a>
     </div>
     
@@ -8074,6 +8074,20 @@
           
           href="/"
         >Home</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/opportunities"
+        >Opportunities</a
         >
       </li>
       
@@ -8872,26 +8886,6 @@
         <li class=""><a
     class="hb-sidebar-custom-link
       text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/slides/"
-    
-  >Slides
-        <span data-hb-sidebar-toggle>
-            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
-        </span>
-    </a><div class="ltr:pr-0 overflow-hidden">
-        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/slides/example/"
-    
-  >Example Talk: Recent Work
-    </a>
-              
-            </li></ul>
-      </div></li>
-        <li class=""><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
     href="/blog/"
     
   >Blog
@@ -8913,6 +8907,14 @@
     href="/blog/softrobotics/"
     
   >Soft Robotics
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/teach-courses/"
+    
+  >Opportunities
     </a>
               
             </li></ul>
@@ -9298,35 +9300,6 @@
     
   
 
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      <a class="hb-attachment-link hb-attachment-link-large" href="/slides/example/"  >
-        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3.75 3v11.25A2.25 2.25 0 0 0 6 16.5h2.25M3.75 3h-1.5m1.5 0h16.5m0 0h1.5m-1.5 0v11.25A2.25 2.25 0 0 1 18 16.5h-2.25m-7.5 0h7.5m-7.5 0l-1 3m8.5-3l1 3m0 0l.5 1.5m-.5-1.5h-9.5m0 0l-.5 1.5M9 11.25v1.5M12 9v3.75m3-6v6"/></svg>
-        Slides
-      </a>
-    
-  
-
 
 </div>
 
@@ -9356,127 +9329,12 @@
 
 
 
-  
-  
-  
-  
-  
-  
-    
-    
-  
 
 
 
 
 
-
-<div 
-  x-data="{ 
-    isFullscreen: false,
-    toggleFullscreen() {
-      const container = this.$refs.slideContainer;
-      if (!this.isFullscreen) {
-        if (container.requestFullscreen) {
-          container.requestFullscreen();
-        } else if (container.webkitRequestFullscreen) {
-          container.webkitRequestFullscreen();
-        } else if (container.msRequestFullscreen) {
-          container.msRequestFullscreen();
-        }
-      } else {
-        if (document.exitFullscreen) {
-          document.exitFullscreen();
-        } else if (document.webkitExitFullscreen) {
-          document.webkitExitFullscreen();
-        } else if (document.msExitFullscreen) {
-          document.msExitFullscreen();
-        }
-      }
-    }
-  }"
-  @fullscreenchange.window="isFullscreen = document.fullscreenElement === $refs.slideContainer"
-  @webkitfullscreenchange.window="isFullscreen = document.webkitFullscreenElement === $refs.slideContainer"
-  class="mb-12"
->
-  
-  <div 
-    x-ref="slideContainer"
-    class="relative w-full bg-black rounded-lg shadow-2xl overflow-visible"
-    style="aspect-ratio: 16 / 9;"
-    :class="isFullscreen ? 'h-screen' : ''"
-  >
-    <iframe
-      src="/present/slides/example/?embed=1"
-      class="w-full h-full border-0 rounded-lg"
-      allowfullscreen
-      allow="autoplay"
-      title="Create Beautiful Presentations with Markdown - Slides"
-      loading="lazy"
-    ></iframe>
-    
-    
-    <button
-      @click="toggleFullscreen()"
-      class="absolute top-4 right-4 p-3 bg-white/95 dark:bg-gray-800/95 hover:bg-white dark:hover:bg-gray-800 text-gray-700 dark:text-gray-200 rounded-lg shadow-xl border border-gray-200 dark:border-gray-700 transition-all duration-200 hover:scale-110 focus:outline-none focus:ring-2 focus:ring-primary-500 backdrop-blur-sm"
-      :aria-label="isFullscreen ? &#34;Exit fullscreen&#34; : &#34;Enter fullscreen&#34;"
-      type="button"
-      style="z-index: 9999;"
-    >
-      
-      <svg 
-        x-show="!isFullscreen"
-        xmlns="http://www.w3.org/2000/svg" 
-        class="h-5 w-5" 
-        fill="none" 
-        viewBox="0 0 24 24" 
-        stroke="currentColor"
-        stroke-width="2"
-      >
-        <path stroke-linecap="round" stroke-linejoin="round" d="M4 8V4m0 0h4M4 4l5 5m11-1V4m0 0h-4m4 0l-5 5M4 16v4m0 0h4m-4 0l5-5m11 5l-5-5m5 5v-4m0 4h-4" />
-      </svg>
-      
-      <svg 
-        x-show="isFullscreen"
-        x-cloak
-        xmlns="http://www.w3.org/2000/svg" 
-        class="h-5 w-5" 
-        fill="none" 
-        viewBox="0 0 24 24" 
-        stroke="currentColor"
-        stroke-width="2"
-      >
-        <path stroke-linecap="round" stroke-linejoin="round" d="M9 9V4.5M9 9H4.5M9 9L3.75 3.75M9 15v4.5M9 15H4.5M9 15l-5.25 5.25M15 9h4.5M15 9V4.5M15 9l5.25-5.25M15 15h4.5M15 15v4.5m0-4.5l5.25 5.25" />
-      </svg>
-    </button>
-  </div>
-
-  
-  
-  <div class="mt-4 flex items-center justify-between text-sm text-gray-600 dark:text-gray-400">
-    <div class="flex items-center gap-4">
-      
-      <a 
-        href="/present/slides/example/"
-        target="_blank"
-        rel="noopener"
-        class="inline-flex items-center gap-1 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
-      >
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-          <path stroke-linecap="round" stroke-linejoin="round" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-        </svg>
-        <span>Present (fullscreen)</span>
-      </a>
-      
-      
-      <span class="text-xs">
-        <kbd class="px-2 py-1 text-xs font-semibold text-gray-800 bg-gray-100 border border-gray-200 rounded dark:bg-gray-600 dark:text-gray-100 dark:border-gray-500">S</kbd>
-        for speaker notes
-      </span>
-    </div>
-  </div>
-  
-</div>
+  <p class="text-sm text-red-600 dark:text-red-400">Slides not found: example</p>
 
 
       
@@ -10524,6 +10382,7 @@ Navigate down for sub-topics!</p>
         <div class="max-w-prose print:hidden">
   
   
+
   
 <div class="flex justify-center">
   
@@ -10657,7 +10516,7 @@ Navigate down for sub-topics!</p>
   
   
   
-  © 2026 Your Name. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  © 2026 BinyshLab. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
 </p>
 
 
