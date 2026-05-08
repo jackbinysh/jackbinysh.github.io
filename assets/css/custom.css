@@ -15,3 +15,11 @@
   transform: none !important;
 }
 
+/* Number the publication list items */
+.pub-list-item {
+  display: list-item;
+  list-style-type: decimal;
+  margin-left: 2rem;
+}
+
+

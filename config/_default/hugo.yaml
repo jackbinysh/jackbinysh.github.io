@@ -27,6 +27,12 @@ cascade:
       kind: page
     outputs: [HTML, present]
 
+  - params:
+      show_date: false
+      reading_time: false
+      share: false
+      profile: false
+
 ############################
 ## ADVANCED
 ############################
@@ -36,7 +42,7 @@ build:
 enableGitInfo: false
 summaryLength: 30
 pagination:
-  pagerSize: 10
+  pagerSize: 1000
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>

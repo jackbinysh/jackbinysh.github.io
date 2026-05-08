@@ -5,20 +5,12 @@
     <link>http://localhost:1313/publication_types/article-journal/</link>
       <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>Article-Journal</title>
       <link>http://localhost:1313/publication_types/article-journal/</link>
     </image>
-    
-    <item>
-      <title>More is less in unpercolated active solids</title>
-      <link>http://localhost:1313/publications/moreisless/</link>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/moreisless/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>More Is Less in Unpercolated Active Solids</title>
@@ -37,10 +29,98 @@
     </item>
     
     <item>
+      <title>Twisted Optical Fibres as Photonic Topological Insulators</title>
+      <link>http://localhost:1313/publications/twisted-optical-fibres-as-photonic-topological-insulators/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/twisted-optical-fibres-as-photonic-topological-insulators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Locomotion of Active Solids</title>
+      <link>http://localhost:1313/publications/adaptive-locomotion-of-active-solids/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/adaptive-locomotion-of-active-solids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curved Odd Elasticity</title>
+      <link>http://localhost:1313/publications/curved-odd-elasticity/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/curved-odd-elasticity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometry of the Vapor Layer under a Leidenfrost Hydrogel Sphere</title>
+      <link>http://localhost:1313/publications/geometry-of-the-vapor-layer-under-a-leidenfrost-hydrogel-sphere/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/geometry-of-the-vapor-layer-under-a-leidenfrost-hydrogel-sphere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 2025 Motile Active Matter Roadmap</title>
+      <link>http://localhost:1313/publications/the-2025-motile-active-matter-roadmap/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/the-2025-motile-active-matter-roadmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave Coarsening Drives Time Crystallization in Active Solids</title>
+      <link>http://localhost:1313/publications/wave-coarsening-drives-time-crystallization-in-active-solids/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/wave-coarsening-drives-time-crystallization-in-active-solids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Leidenfrost Levitation of Soft Elastic Solids</title>
+      <link>http://localhost:1313/publications/modeling-leidenfrost-levitation-of-soft-elastic-solids/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/modeling-leidenfrost-levitation-of-soft-elastic-solids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Active Elastocapillarity in Soft Solids with Negative Surface Tension</title>
       <link>http://localhost:1313/publications/active-elastocapillarity-in-soft-solids-with-negative-surface-tension/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publications/active-elastocapillarity-in-soft-solids-with-negative-surface-tension/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Solids Sync Up</title>
+      <link>http://localhost:1313/publications/active-solids-sync-up/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/active-solids-sync-up/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Odd Living Matter Defies the Golden Rule of Mechanics</title>
+      <link>http://localhost:1313/publications/odd-living-matter-defies-the-golden-rule-of-mechanics/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/odd-living-matter-defies-the-golden-rule-of-mechanics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometry of Bend: Singular Lines and Defects in Twist-Bend Nematics</title>
+      <link>http://localhost:1313/publications/geometry-of-bend-singular-lines-and-defects-in-twist-bend-nematics/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/geometry-of-bend-singular-lines-and-defects-in-twist-bend-nematics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-Dimensional Active Defect Loops</title>
+      <link>http://localhost:1313/publications/three-dimensional-active-defect-loops/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/three-dimensional-active-defect-loops/</guid>
       <description></description>
     </item>
     

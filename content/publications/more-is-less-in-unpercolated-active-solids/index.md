@@ -1,6 +1,16 @@
 ---
 title: "More Is Less in Unpercolated Active Solids"
 
+# some settings that kill stuff in the header and the footer
+show_date: false
+reading_time: false
+tags: false
+share: false
+profile: false
+
+
+
+
 authors:
   - Jack Binysh
   - Guido Baardink
@@ -27,5 +37,7 @@ image:
   preview_only: false
 
 projects: []
+sharing: false
+
 
 ---

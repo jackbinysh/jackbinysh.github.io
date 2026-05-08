@@ -15,7 +15,7 @@
 {{ $fill_image := .config.fill_image | default true }}
 {{ $showDate := .config.show_date | default true }}
 {{ $showReadTime := .config.show_read_time | default true }}
-{{ $showReadMore := .config.show_read_more | default true }}
+{{ $showReadMore := .config.show_read_more | default false }}
 {{ $hasMeta := or $showDate $showReadTime $showReadMore }}
 {{ $index := .index }}
 {{ $isEvent := eq $item.Type "events" }}

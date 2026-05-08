@@ -4,9 +4,18 @@
 # Tutorial: https://docs.hugoblox.com/tutorial/
 # Documentation: https://docs.hugoblox.com/
 # ══════════════════════════════════════════════════════════════════════════════
+
+# global settings for the site, where I kill reading time, stuff in the footer etc.
+cascade:
+  - params:
+      show_date: false
+      reading_time: false
+      share: false
+      profile: false
+
 hugoblox:
   schema: "2.0"
-
+  # some settings that kill stuff in the header and the footer
   # ────────────────────────────────────────────────────────────────────────────
   # IDENTITY
   # Site-level branding (for people/profiles, use the author system in content/authors/)
@@ -24,13 +33,16 @@ hugoblox:
     description: "The highly-customizable Hugo Academic theme powered by HugoBlox
       Kit. Easily create your personal academic website."
     # Social accounts (used for meta tags like Twitter Cards)
-    social:
-      twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
+    #social:
+    #  twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
+    
+    sharing: false
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
   # Color and visual design system
   # ────────────────────────────────────────────────────────────────────────────
+
   theme:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
     mode: system
@@ -54,6 +66,8 @@ hugoblox:
       footer:
         background: ""
         foreground: ""
+
+  
 
   # ────────────────────────────────────────────────────────────────────────────
   # TYPOGRAPHY
@@ -168,10 +182,12 @@ hugoblox:
       enable: true
     # Reading time estimates
     reading_time:
-      enable: true
+      enable: false
     # Academic citations
     citations:
       style: apa # apa | mla | chicago | ieee
+    show_metadata: false
+    tag: false
 
   # ────────────────────────────────────────────────────────────────────────────
   # SEARCH
@@ -289,8 +305,10 @@ hugoblox:
     # Requires: HugoBlox Premium to support HugoBlox via alternative means
     # Note: Even with Premium, you can keep this false to support open source!
     # Get Premium: https://hugoblox.com/premium
-    hide_attribution: false
+    hide_attribution: true
 
     # Affiliate referral code for rewards program
     # Join affiliate program: https://hugoblox.com/affiliates
     affiliate_code: ""
+
+  sharing: false

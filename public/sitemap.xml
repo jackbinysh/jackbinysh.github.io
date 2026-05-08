@@ -4,21 +4,31 @@
   
   
   <url>
-    <loc>http://localhost:1313/publication_types/article-journal/</loc><lastmod>2026-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/publication_types/article-journal/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publications/moreisless/</loc><lastmod>2026-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/publication_types/</loc><lastmod>2026-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/publications/</loc><lastmod>2026-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/tags/source-themes/</loc><lastmod>2026-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/tags/</loc><lastmod>2026-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/tags/false/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/publications/more-is-less-in-unpercolated-active-solids/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/publications/nonreciprocal-buckling-makes-active-filaments-polyfunctional/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/publication_types/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/publications/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/tags/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/publications/twisted-optical-fibres-as-photonic-topological-insulators/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/publications/adaptive-locomotion-of-active-solids/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/publications/curved-odd-elasticity/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/publications/geometry-of-the-vapor-layer-under-a-leidenfrost-hydrogel-sphere/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/publications/the-2025-motile-active-matter-roadmap/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/publications/wave-coarsening-drives-time-crystallization-in-active-solids/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/projects/</loc><lastmod>2024-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -46,6 +56,8 @@
   <url>
     <loc>http://localhost:1313/experience/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>http://localhost:1313/publications/modeling-leidenfrost-levitation-of-soft-elastic-solids/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>http://localhost:1313/</loc><lastmod>2022-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/publicationspage/</loc><lastmod>2022-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -55,6 +67,14 @@
     <loc>http://localhost:1313/team/</loc><lastmod>2022-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/publications/active-elastocapillarity-in-soft-solids-with-negative-surface-tension/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/publications/active-solids-sync-up/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/publications/odd-living-matter-defies-the-golden-rule-of-mechanics/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/publications/geometry-of-bend-singular-lines-and-defects-in-twist-bend-nematics/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/publications/three-dimensional-active-defect-loops/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/publications/stable-and-unstable-vortex-knots-in-excitable-media/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
