@@ -13,7 +13,8 @@ postnominals:
   - MIEEE
 #status:
 #  icon: 
-role:  Department of Mechanical Engineering {{<icon name="custom/bham.svg">}}.
+role: |
+  {{<icon name="custom/bham">}} Mechanical Engineering
 bio: |
 
     Our interests encompass the mechanics of advanced materials in all their guises---[mechanical metamaterials](research/mechanicalmetamaterials/)

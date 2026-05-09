@@ -70,7 +70,8 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   typography:
     # Theme pack: name from data/fonts/
-    pack: "academic"
+    pack: "humanist"
+    #pack: "developer"
 
   # ────────────────────────────────────────────────────────────────────────────
   # LAYOUT
@@ -88,6 +89,12 @@ hugoblox:
   appearance:
   # Options: 'standard' (~1280px), 'wide' (~1536px), or a custom value
     container_width: 'standard'
+
+  features:
+    map:
+      enable: true
+      engine: 2  # 1 = Google, 2 = OpenStreetMap
+      api_key: '' # Only needed if using Google Maps (engine 1)
 
 
   # ────────────────────────────────────────────────────────────────────────────

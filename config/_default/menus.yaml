@@ -22,4 +22,7 @@ main:
   - name: Publications
     url: /publicationspage
     weight: 6
+  - name: Contact
+    url: /contact
+    weight: 7
   
