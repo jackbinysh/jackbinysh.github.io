@@ -13,9 +13,89 @@
     </image>
     
     <item>
-      <title>Mechanical Metamaterials</title>
+      <title>Locomotion of active metamaterials</title>
+      <link>http://localhost:1313/research/locomotion-active-metamaterials/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/locomotion-active-metamaterials/</guid>
+      <description>&lt;h2 id=&#34;associated-publications&#34;&gt;Associated Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Odd elasticity</title>
+      <link>http://localhost:1313/research/oddelasticity/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/oddelasticity/</guid>
+      <description>&lt;h2 id=&#34;associated-publications&#34;&gt;Associated Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Synchronization of active solids</title>
+      <link>http://localhost:1313/research/synchronization/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/synchronization/</guid>
+      <description>&lt;h2 id=&#34;associated-publications&#34;&gt;Associated Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flows of active liquid crystals</title>
+      <link>http://localhost:1313/research/activeliquidcrystals/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/activeliquidcrystals/</guid>
+      <description>&lt;h2 id=&#34;associated-publications&#34;&gt;Associated Publications&lt;/h2&gt;
+&lt;p&gt;-
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Disordered mechanical metamaterials</title>
       <link>http://localhost:1313/research/mechanicalmetamaterials/</link>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/mechanicalmetamaterials/</guid>
       <description>&lt;h2 id=&#34;associated-publications&#34;&gt;Associated Publications&lt;/h2&gt;
 &lt;ul&gt;
@@ -26,15 +106,94 @@
     </item>
     
     <item>
-      <title>Soft Robotics</title>
-      <link>http://localhost:1313/research/softrobotics/</link>
+      <title>Snapping active beams for soft robots</title>
+      <link>http://localhost:1313/research/soft-robotics/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/softrobotics/</guid>
+      <guid>http://localhost:1313/research/soft-robotics/</guid>
       <description>&lt;h2 id=&#34;associated-publications&#34;&gt;Associated Publications&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Topologically protected edge transport</title>
+      <link>http://localhost:1313/research/topological-materials/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/topological-materials/</guid>
+      <description>&lt;h2 id=&#34;associated-publications&#34;&gt;Associated Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shape morphing soft solids</title>
+      <link>http://localhost:1313/research/shape-morphing-soft-solids/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/shape-morphing-soft-solids/</guid>
+      <description>&lt;h2 id=&#34;associated-publications&#34;&gt;Associated Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Levitating hydrogels</title>
+      <link>http://localhost:1313/research/levitatinghydrogels/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/levitatinghydrogels/</guid>
+      <description>&lt;h2 id=&#34;associated-publications&#34;&gt;Associated Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Knotted soft matter</title>
+      <link>http://localhost:1313/research/knotted-soft-matter/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/knotted-soft-matter/</guid>
+      <description>&lt;h2 id=&#34;associated-publications&#34;&gt;Associated Publications&lt;/h2&gt;
+&lt;p&gt;-
+&lt;/p&gt;
+&lt;p&gt;-
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Topological defect dynamics in soft matter</title>
+      <link>http://localhost:1313/research/topological-singularities/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/topological-singularities/</guid>
+      <description>&lt;h2 id=&#34;associated-publications&#34;&gt;Associated Publications&lt;/h2&gt;
+&lt;p&gt;-
+&lt;/p&gt;
 </description>
     </item>
     

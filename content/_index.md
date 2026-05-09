@@ -32,7 +32,7 @@ sections:
 
       # Avatar customization
       avatar:
-        size: xl # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: square # Options: circle (default), square, rounded
 
   - block: collection
