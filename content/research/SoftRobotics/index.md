@@ -1,7 +1,7 @@
 ---
 title: Soft Robotics
 summary: "
-We like robotics
+
 "
 date: 2023-10-27
 

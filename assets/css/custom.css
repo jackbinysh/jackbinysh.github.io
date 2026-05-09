@@ -22,8 +22,3 @@
   margin-left: 2rem;
 }
 
-/* 1. Remove the narrow width constraint on Markdown blocks */
-.max-w-prose {
-  max-width: 80% !important;
-}
-

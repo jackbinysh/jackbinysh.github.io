@@ -1,8 +1,7 @@
 ---
 title: Mechanical Metamaterials
 summary: "
--[<u>More is less in unpercolated active solids (PRX 2026)</u>](https://journals.aps.org/prx/abstract/10.1103/flhb-kjyd)
-<br>
+
 "
 date: 2023-10-27
 

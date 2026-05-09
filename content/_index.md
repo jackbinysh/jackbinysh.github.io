@@ -6,69 +6,49 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: resume-biography-3
     content:
-      title: Robotic Metamaterials
-      text: robots
-      announcement:
-        text: Latest preprint is live
-        link:
-          text: Read the paper
-          url: /publications/rlhf-foundations
-      primary_action:
-        text: Start a project
-        url: '#contact'
-        icon: hero/arrow-right
-      secondary_action:
-        text: View portfolio
-        url: /projects/
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: me
+      text: ''
+      # Show a call-to-action button under your biography? (optional)
+      #button:
+      #  text: Download CV
+      #  url: uploads/resume.pdf
+      headings:
+        #about: 'We study the mechanics of advanced materials for smarter soft robots. '
+        about: 'We study the mechanics of advanced materials for smarter soft robots. '
+        education: ''
+        interests: ''
     design:
+      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
-        gradient:
-          start: primary-500
-          end: secondary-500
-        text_color_light: true
-  - block: markdown
-    content:
-      title: 
-      text: |
-        <div class="grid md:grid-cols-2 gap-8 items-center" markdown="1">
+        gradient_mesh:
+          enable: true
 
-        <div>
+      # Name heading sizing to accommodate long or short names
+      name:
+        size: md # Options: xs, sm, md, lg (default), xl
 
-        ## Our Lab
+      # Avatar customization
+      avatar:
+        size: xl # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        shape: square # Options: circle (default), square, rounded
 
-        We develop robotic metamaterials and active solids with distributed sensing, actuation, and control.
-        </div>
-
-        <div>
-
-        ![University of Birmingham](University-of-Birmingham-Profile-Picture.webp)
-
-        </div>
-
-        </div>
-      
-      
   - block: collection
     id: talks
     content:
+      page_type: news # where to search in teh file system 
       title: News
-      filters:
-        folders:
-          - news
     design:
       view: article-grid
       # Choose a layout view
-      columns: 2
+      columns: 3
       show_categories: false
       show_date: false       # Toggle the publication date
       show_read_time: false   # Toggle "X min read"
       show_read_more: false  # Show/hide the "Read more" link
       fill_image: true       # When true, the image covers the top of the card
+
+  
 ---
-
-
-
-
-
