@@ -53,9 +53,9 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 90
+  quality: 100
   anchor: smart
-  hint: picture
+  hint: photo
 timeout: 600000
 taxonomies:
   author: authors

@@ -7,7 +7,7 @@
     <description></description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_ffaa3acb8f3718e4.png</url>
+      <url>http://localhost:1313/media/icon_hu_24714d76e5652272.png</url>
       <title></title>
       <link>http://localhost:1313/</link>
     </image>
@@ -89,6 +89,22 @@
       <description>&lt;h2 id=&#34;associated-publications&#34;&gt;Associated Publications&lt;/h2&gt;
 &lt;p&gt;-
 &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#34;Twisted optical fibres..&#34;  featured on the cover of Nature Photonics</title>
+      <link>http://localhost:1313/news/twistedfibrenews/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/twistedfibrenews/</guid>
+      <description>&lt;p&gt;Our work on &amp;ldquo;Twisted optical fibres as Photonic Topological Insulators&amp;rdquo; has been featured on the front page of Nature Photonics 
+, with a great commentary piece by Michael Rechtsman 
+.&lt;/p&gt;
+&lt;h2 id=&#34;associated-publications&#34;&gt;Associated Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

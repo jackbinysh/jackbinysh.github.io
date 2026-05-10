@@ -4,6 +4,14 @@
   
   
   <url>
+    <loc>http://localhost:1313/research/locomotion-active-metamaterials/</loc><lastmod>2026-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/research/oddelasticity/</loc><lastmod>2026-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/research/synchronization/</loc><lastmod>2026-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/research/activeliquidcrystals/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>http://localhost:1313/authors/positions/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/authors/jack-binysh/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -11,6 +19,8 @@
     <loc>http://localhost:1313/authors/</loc><lastmod>2026-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/news/nonreciprocalbucklingnews/</loc><lastmod>2026-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/research/mechanicalmetamaterials/</loc><lastmod>2026-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/authors/me/</loc><lastmod>2026-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -156,17 +166,9 @@
   <url>
     <loc>http://localhost:1313/news/moreislessnews/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/research/mechanicalmetamaterials/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/research/soft-robotics/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/research/levitatinghydrogels/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/research/locomotion-active-metamaterials/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/research/shape-morphing-soft-solids/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/research/softrobotics/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/research/topologicalmaterials/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/research/topological-materials/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/positions/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -177,6 +179,8 @@
     <loc>http://localhost:1313/publications/modeling-leidenfrost-levitation-of-soft-elastic-solids/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/authors/mykyta-v.-chubynsky/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/research/shape-morphing-soft-solids/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/authors/vicente-luis-d%5Ciaz-melian/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -196,6 +200,8 @@
   <url>
     <loc>http://localhost:1313/publications/active-solids-sync-up/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>http://localhost:1313/research/levitatinghydrogels/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>http://localhost:1313/publications/odd-living-matter-defies-the-golden-rule-of-mechanics/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/authors/thomas-r.-wilks/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -208,11 +214,15 @@
   <url>
     <loc>http://localhost:1313/authors/joseph-pollard/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>http://localhost:1313/research/knotted-soft-matter/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>http://localhost:1313/authors/miha-ravnik/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/authors/simon-%5Cv-copar/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/publications/three-dimensional-active-defect-loops/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/research/topological-singularities/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/authors/carl-a.-whitfield/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
