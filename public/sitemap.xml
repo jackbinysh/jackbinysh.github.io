@@ -16,6 +16,8 @@
   <url>
     <loc>http://localhost:1313/authors/jack-binysh/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>http://localhost:1313/news/twistedfibrenews/</loc><lastmod>2026-05-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>http://localhost:1313/authors/</loc><lastmod>2026-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/news/nonreciprocalbucklingnews/</loc><lastmod>2026-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>

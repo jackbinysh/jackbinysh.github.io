@@ -35,4 +35,4 @@ tags:
 \"More is less..\" is featured in Physics Viewpoint, with commentary by Tzer Han Tan [**<u>here</u>**](https://physics.aps.org/articles/v19/49). Thanks Tzer Han!
 
 ## Associated Publications
-- [More is less in unpercolated active solids](http://localhost:1313/publications/more-is-less-in-unpercolated-active-solids/)
+- [More is less in unpercolated active solids](/publications/more-is-less-in-unpercolated-active-solids/)

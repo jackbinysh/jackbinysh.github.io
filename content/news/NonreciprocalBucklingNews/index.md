@@ -36,4 +36,4 @@ tags:
 Out now in [<u>**PNAS**</u>](https://www.pnas.org/toc/pnas/123/11).
 
 ## Associated Publications
-- [Nonreciprocal buckling makes active filaments polyfunctional](http://localhost:1313/publications/nonreciprocal-buckling-makes-active-filaments-polyfunctional/)
+- [Nonreciprocal buckling makes active filaments polyfunctional](/publications/nonreciprocal-buckling-makes-active-filaments-polyfunctional/)
