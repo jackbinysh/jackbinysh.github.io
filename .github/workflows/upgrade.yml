@@ -92,7 +92,7 @@ jobs:
             - [ ] Merge this PR to apply the updates.
           branch: "chore/upgrade-hugoblox-${{ github.run_id }}"
           delete-branch: true
-          base: main
+          base: ${{ github.event.repository.default_branch }}
           labels: |
             dependencies
             automated-pr
