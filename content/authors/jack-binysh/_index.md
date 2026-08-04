@@ -3,6 +3,7 @@ name:
   display: Jack Binysh
 role: PI
 weight: 1000
+view: citation
 
 bio:  "
 -**Assistant Professor**, University of Birmingham.

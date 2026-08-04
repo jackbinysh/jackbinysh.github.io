@@ -1,6 +1,6 @@
 name:
   display: Dr. Jane Doe
-role: Researchers
+role: Former Team Member
 bio: Research interests include machine learning and computational biology.
 interests:
   - Machine Learning
@@ -34,6 +34,6 @@ links:
     url: https://x.com/janedoe
   - icon: github
     url: https://github.com/janedoe
-#user_groups:
-#  - Researchers
+user_groups:
+  - Alumni
 graduation_year: 2024

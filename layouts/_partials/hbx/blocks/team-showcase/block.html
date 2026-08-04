@@ -188,7 +188,7 @@
           {{ else }}
             {{ $sortKey = printf "%s|%s" $primary $familyLower }}
           {{ end }}
-          {{ $groupProfiles = $groupProfiles | append (dict "profile" $profile "sort_val" $sortKey) }}
+          {{ $groupProfiles = $groupProfiles | append (dict "profile" $profile "profileData" $profileData "sort_val" $sortKey) }}
         {{ end }}
       {{ end }}
       {{ $groupProfiles = sort $groupProfiles "sort_val" $groupOrder }}
@@ -212,8 +212,19 @@
         {{ end }}
         {{ range $groupProfile := $groupProfiles }}
           {{ $profile := $groupProfile.profile }}
+          {{ $profileData := $groupProfile.profileData }}
           {{ $avatar := $profile.avatar }}
-          {{ $link := printf "/authors/%s/" $profile.slug }}
+          {{ $link := (printf "/authors/%s/" $profile.slug) | relLangURL }}
+          {{ $externalLink := index $profileData "external_link" | default $profile.external_link }}
+          {{ with $externalLink }}
+            {{ $customLink := strings.TrimSpace (printf "%v" .) }}
+            {{ if ne $customLink "" }}
+              {{ $link = $customLink }}
+              {{ if and (not (urls.Parse $link).Scheme) (not (hasPrefix $link "#")) }}
+                {{ $link = $link | relLangURL }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
           {{ $nameSource := $profile.name_given | default $profile.title | default "?" }}
           {{ $initial := cond (gt (len $nameSource) 0) (upper (substr $nameSource 0 1)) "?" }}
           
@@ -406,14 +417,25 @@
       {{ else }}
         {{ $sortKey = printf "%s|%s" $primary $familyLower }}
       {{ end }}
-      {{ $sorted = $sorted | append (dict "profile" $profile "sort_val" $sortKey) }}
+      {{ $sorted = $sorted | append (dict "profile" $profile "profileData" $profileData "sort_val" $sortKey) }}
     {{ end }}
     {{ $sorted = sort $sorted "sort_val" $order }}
     <div class="{{ $gridClass }}">
       {{ range $sortedProfile := $sorted }}
         {{ $profile := $sortedProfile.profile }}
+        {{ $profileData := $sortedProfile.profileData }}
         {{ $avatar := $profile.avatar }}
-        {{ $link := printf "/authors/%s/" $profile.slug }}
+        {{ $link := (printf "/authors/%s/" $profile.slug) | relLangURL }}
+        {{ $externalLink := index $profileData "external_link" | default $profile.external_link }}
+        {{ with $externalLink }}
+          {{ $customLink := strings.TrimSpace (printf "%v" .) }}
+          {{ if ne $customLink "" }}
+            {{ $link = $customLink }}
+            {{ if and (not (urls.Parse $link).Scheme) (not (hasPrefix $link "#")) }}
+              {{ $link = $link | relLangURL }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
         {{ $nameSource := $profile.name_given | default $profile.title | default "?" }}
         {{ $initial := cond (gt (len $nameSource) 0) (upper (substr $nameSource 0 1)) "?" }}
         <div class="group relative">

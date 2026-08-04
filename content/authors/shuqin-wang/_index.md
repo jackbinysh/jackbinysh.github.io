@@ -1,0 +1,13 @@
+---
+name:
+  display: Shuqin Wang
+role: Master's Student
+weight: 1
+
+bio: "
+-**Project**: Non-reciprocal motions in active beams
+
+"
+user_groups:
+  - Researchers
+---
