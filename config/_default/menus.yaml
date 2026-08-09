@@ -16,16 +16,19 @@ main:
   - name: Research
     url: /research
     weight: 4
+  - name: Teaching
+    url: /teaching
+    weight: 5
   - name: Team
     url: /team
-    weight: 5
+    weight: 6
   - name: Positions
     url: /positions
-    weight: 6
+    weight: 7
   - name: Publications
     url: /publicationspage
-    weight: 7
+    weight: 8
   - name: Contact
     url: /contact
-    weight: 8
+    weight: 9
   

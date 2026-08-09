@@ -1,0 +1,12 @@
+{{- $pagePath := .Get "page" -}}
+{{- $resourceName := .Get "resource" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- with site.GetPage $pagePath -}}
+  {{- with .Resources.GetMatch $resourceName -}}
+    <img src="{{ .RelPermalink }}" alt="{{ $alt }}" class="w-full h-auto rounded-lg" loading="lazy">
+  {{- else -}}
+    {{- errorf "Image resource %q not found on page %q" $resourceName $pagePath -}}
+  {{- end -}}
+{{- else -}}
+  {{- errorf "Page not found for shared image: %s" $pagePath -}}
+{{- end -}}

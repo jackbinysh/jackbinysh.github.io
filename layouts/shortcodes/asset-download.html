@@ -1,0 +1,7 @@
+{{- $path := .Get "path" -}}
+{{- $label := .Get "label" | default $path -}}
+{{- with resources.Get $path -}}
+  <a href="{{ .RelPermalink }}" download>{{ $label }}</a>
+{{- else -}}
+  {{- errorf "Tutorial asset not found: %s" $path -}}
+{{- end -}}
