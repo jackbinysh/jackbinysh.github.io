@@ -21,6 +21,7 @@ sections:
         education: ''
         interests: ''
     design:
+      css_class: homepage-intro
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
@@ -37,6 +38,8 @@ sections:
 
   - block: markdown
     id: talks
+    design:
+      css_class: news-column
     content:
       title: News
       text: |
@@ -60,7 +63,7 @@ sections:
 
         ---
 
-        <img src="/news/nonreciprocalbucklingnews/featured.png" alt="Nonreciprocal buckling research featured in PNAS" loading="lazy">
+        <img class="news-image--pnas" src="/news/nonreciprocalbucklingnews/featured.png" alt="Nonreciprocal buckling research featured in PNAS" loading="lazy">
 
         ## Nonreciprocal buckling on the cover of PNAS
 

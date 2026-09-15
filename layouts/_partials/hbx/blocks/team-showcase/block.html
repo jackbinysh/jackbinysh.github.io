@@ -229,9 +229,9 @@
           {{ $initial := cond (gt (len $nameSource) 0) (upper (substr $nameSource 0 1)) "?" }}
           
           <div class="group relative">
-            <div class="relative overflow-hidden rounded-2xl bg-white dark:bg-gray-800 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
+            <div class="relative overflow-hidden transition-all duration-300 transform hover:-translate-y-1">
               
-              <a href="{{ $link }}" class="block relative aspect-square overflow-hidden bg-gray-100 dark:bg-gray-800" aria-label="{{ $profile.title }}">
+              <a href="{{ $link }}" class="block relative aspect-square overflow-hidden" aria-label="{{ $profile.title }}">
                 {{ if $avatar }}
                   {{ $image := $avatar.Fit "600x600 Center q90" }}
                   <img src="{{ $image.RelPermalink }}" 
@@ -241,7 +241,7 @@
                        loading="lazy"
                        class="w-full h-full object-contain object-center transition-transform duration-300 group-hover:scale-105">
                 {{ else }}
-                  <div class="absolute inset-0 bg-gray-100 dark:bg-gray-700 flex items-center justify-center text-4xl font-semibold text-gray-600 dark:text-gray-200">
+                  <div class="absolute inset-0 flex items-center justify-center text-4xl font-semibold text-gray-600 dark:text-gray-200">
                     {{ $initial }}
                   </div>
                 {{ end }}
@@ -439,8 +439,8 @@
         {{ $nameSource := $profile.name_given | default $profile.title | default "?" }}
         {{ $initial := cond (gt (len $nameSource) 0) (upper (substr $nameSource 0 1)) "?" }}
         <div class="group relative">
-          <div class="relative overflow-hidden rounded-2xl bg-white dark:bg-gray-800 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
-            <a href="{{ $link }}" class="block relative aspect-square overflow-hidden bg-gray-100 dark:bg-gray-800" aria-label="{{ $profile.title }}">
+          <div class="relative overflow-hidden transition-all duration-300 transform hover:-translate-y-1">
+            <a href="{{ $link }}" class="block relative aspect-square overflow-hidden" aria-label="{{ $profile.title }}">
               {{ if $avatar }}
               {{ $image := $avatar.Fit "600x600 Center q90" }}
               <img src="{{ $image.RelPermalink }}" 
@@ -450,7 +450,7 @@
                    loading="lazy"
                    class="w-full h-full object-contain object-center transition-transform duration-300 group-hover:scale-105">
               {{ else }}
-              <div class="absolute inset-0 bg-gray-100 dark:bg-gray-700 flex items-center justify-center text-4xl font-semibold text-gray-600 dark:text-gray-200">
+              <div class="absolute inset-0 flex items-center justify-center text-4xl font-semibold text-gray-600 dark:text-gray-200">
                 {{ $initial }}
               </div>
               {{ end }}

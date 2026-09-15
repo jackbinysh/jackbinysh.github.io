@@ -22,3 +22,89 @@
   margin-left: 2rem;
 }
 
+/* Shared column widths, including comfortable gutters on small screens. */
+:root {
+  --site-gallery-width: 1200px;
+  --site-news-width: 900px;
+  --site-column-gutter: 24px;
+}
+
+.site-gallery {
+  width: 100%;
+  max-width: var(--site-gallery-width);
+  padding-inline: var(--site-column-gutter);
+}
+
+.site-gallery--single {
+  max-width: 500px;
+}
+
+.site-gallery-grid--four {
+  gap: 5px;
+  grid-template-columns: minmax(0, 1fr);
+}
+
+@media (min-width: 768px) {
+  .site-gallery-grid--four {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1024px) {
+  .site-gallery-grid--four {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 767px) {
+  /* The collection block already supplies 24px gutters. */
+  .site-gallery {
+    padding-inline: 0;
+  }
+}
+
+.news-column > .max-w-prose {
+  width: 100%;
+  max-width: var(--site-news-width);
+  padding-inline: var(--site-column-gutter);
+}
+
+/* Tighten the transition from the homepage introduction to News. */
+.homepage-intro {
+  padding-bottom: 0;
+}
+
+.homepage-intro .resume-biography {
+  padding-bottom: 2rem;
+}
+
+.news-column {
+  padding-top: 1.5rem;
+}
+
+.news-column > .max-w-prose > .text-3xl {
+  font-size: 2.25rem;
+  line-height: 1.2;
+}
+
+.news-column .prose {
+  width: 100%;
+  max-width: none;
+}
+
+.news-column .news-image--pnas {
+  width: 360px;
+  max-width: 100%;
+  height: auto;
+}
+
+.position-details {
+  scroll-margin-top: 6rem;
+}
+
+.position-details > summary {
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.4;
+}

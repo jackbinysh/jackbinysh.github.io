@@ -7,9 +7,6 @@ main:
   - name: Home
     url: /
     weight: 1
-  - name: News
-    url: /news
-    weight: 2
   - name: Media
     url: /media
     weight: 3

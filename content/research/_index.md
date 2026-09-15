@@ -29,7 +29,7 @@ sections:
     design:
       # Choose a layout view
       view: article-grid
-      columns: 3
+      columns: 4
       show_categories: false
       show_date: false       # Toggle the publication date
       show_read_time: false   # Toggle "X min read"

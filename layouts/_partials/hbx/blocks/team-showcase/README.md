@@ -52,9 +52,9 @@ sections:
 Team members are defined in `data/authors/<slug>.yaml`. All fields in the data file can be sorted on directly—no `Params.` prefix is required.
 
 ```yaml
-# data/authors/jane-doe.yaml
+# data/authors/example-researcher.yaml
 name:
-  display: Dr. Jane Doe
+  display: Example Researcher
 role: Postdoctoral Researcher
 bio: Research interests include machine learning and computational biology.
 interests:
@@ -66,11 +66,7 @@ affiliations:
     url: https://example.edu
 links:
   - icon: envelope
-    url: 'mailto:jane@example.edu'
-  - icon: twitter
-    url: https://x.com/janedoe
-  - icon: github
-    url: https://github.com/janedoe
+    url: 'mailto:researcher@example.edu'
 user_groups:
   - Postdoctoral Researchers
 graduation_year: 2024

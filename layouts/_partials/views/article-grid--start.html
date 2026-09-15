@@ -1,0 +1,5 @@
+{{ $columns := .config.columns | default 2 }}
+{{ $len := .config.len | default 2 }}
+{{/* Keep the grid responsive; widths are configured in assets/css/custom.css. */}}
+<div class="site-gallery mx-auto py-5 lg:py-8 {{ if eq $len 1 }}site-gallery--single justify-center{{ end }}">
+  <div class="grid gap-10 {{ if eq $columns 4 }}site-gallery-grid--four{{ else }}md:grid-cols-{{$columns}}{{ end }} lg:gap-10">

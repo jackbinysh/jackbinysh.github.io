@@ -32,6 +32,4 @@ sections:
       max_columns: 4     # 2, 3, or 4
       show_social: true
       show_empty_groups: false # show a placeholder when a group has no members
-      # Section background color (CSS class)
-      css_class: "bg-gray-50 dark:bg-gray-900"
 ---

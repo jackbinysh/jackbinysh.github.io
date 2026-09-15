@@ -1,10 +1,11 @@
 ---
 title: Positions
-summary: Embedsfdsd videos, podcasts, code, LaTeX math, and even test students!
+summary: PhD, master's, postdoctoral and visiting student opportunities in the Binysh Lab.
 date: 2023-10-24
 math: true
 authors:
 show_date_updated: false
+toc_max_level: 2
 tags:
 
 image:
@@ -28,9 +29,12 @@ cover:
 draft: false
 ---
 
-# Open PhD Positions
+We are always happy to support applications for fellowships, and from postdoctoral researchers, PhD students, Masters and visiting students. We currently have [one open PhD position](#physical-intelligence-in-robotic-materials).
 
-## 1. Physical intelligence in robotic materials
+## PhD Positions
+
+<details class="position-details" id="physical-intelligence-in-robotic-materials">
+<summary>Open Position: Physical intelligence in robotic materials</summary>
 
 ### Key Details
 
@@ -98,9 +102,21 @@ Below are some additional, relevant references candidates may wish to read:
 3.	L. van Laake and J. Overvelde, Bio-inspired autonomy in soft robots, Comm. Mater. 5, 1 (2024). Open Access PDF at https://www.nature.com/articles/s43246-024-00637-7
 
 
-# Open Postdoctoral Positions
+</details>
+
+## Fellowship applications
 
 I am very happy to support fellowship applications, please contact me directly at j.binysh@bham.ac.uk
+
+## Postdoctoral Positions
+
+## Visiting and Summer students
+
+In Summer 2027 I will host several summer projects for interested undergraduates through [Birmingham's Summer Research Programme](https://www.birmingham.ac.uk/study/international/summer-research). If you are interested in summer projects, please get in touch well before the deadline. Typcial deadlines (from 2026 summer school website) are:
+
+- The deadline for partners' nominations is 15 April 2026.
+- The deadline for last applications is 1 May 2026.
+- The last payment deadline is 21 May 2026 (TBC).
 
 <!--
 . Here is a list of possible opportunities:

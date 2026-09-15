@@ -11,6 +11,10 @@
 {{ end }}
 
 {{ $resource := partial "functions/get_featured_image.html" $item }}
+{{/* Prefer a deliberately framed gallery image; retain featured images on detail pages. */}}
+{{ with $item.Resources.GetMatch "thumbnail.png" }}
+  {{ $resource = . }}
+{{ end }}
 {{ $anchor := "Center" }}
 {{ if and $item.Params.image (reflect.IsMap $item.Params.image) }}
   {{ $anchor = $item.Params.image.focal_point | default "Center" }}
@@ -27,7 +31,7 @@
 {{ $event_dates = partial "functions/get_event_dates" $item }}
 {{ end }}
 
-<div class="group bg-white/90 dark:bg-zinc-900/90 backdrop-blur-sm rounded-2xl ring-1 ring-zinc-900/5 dark:ring-white/10 shadow-lg overflow-hidden transition-all duration-300 ease-out hover:shadow-xl hover:shadow-primary-500/10 hover:-translate-y-2 focus-within:ring-2 focus-within:ring-primary-500/50" role="article" aria-labelledby="card-title-{{ $item.File.UniqueID }}">
+<div class="group bg-white/90 dark:bg-zinc-900/90 backdrop-blur-sm overflow-hidden transition-all duration-300 ease-out hover:-translate-y-2 focus-within:ring-2 focus-within:ring-primary-500/50" role="article" aria-labelledby="card-title-{{ $item.File.UniqueID }}">
     <!-- Image Section -->
     <div class="relative overflow-hidden aspect-[16/9] bg-gradient-to-br from-zinc-100 to-zinc-200 dark:from-zinc-800 dark:to-zinc-900">
       {{ with $item.Params.content_meta }}
@@ -128,7 +132,7 @@
       </div>
       {{ end }}
 
-      <h3 id="card-title-{{ $item.File.UniqueID }}" class="text-xl font-bold tracking-tight text-zinc-900 dark:text-zinc-100 group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors duration-200 leading-tight">
+      <h3 id="card-title-{{ $item.File.UniqueID }}" class="text-lg font-bold tracking-tight text-zinc-900 dark:text-zinc-100 group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors duration-200 leading-tight">
         <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="hover:underline">
           {{ $item.Title }}
           {{ if $item.Params.external_link }}
