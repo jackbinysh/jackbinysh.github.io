@@ -45,7 +45,7 @@ sections:
       text: |
         <img src="/news/new-phd-position/featured.png" alt="A lattice of linked robotic units" loading="lazy">
 
-        ## New PhD Position: Embodying Intelligence in Robotic Materials
+        ## New PhD Position: The physics of learning in robotic metamaterials
 
         Application deadline: **6th November 2026**.
 
