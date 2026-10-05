@@ -38,7 +38,7 @@ We are always happy to support applications for fellowships, and from postdoctor
 
 ### Key Details
 
-- Application deadline: 6th Nov. 2026.
+- Application deadline: 6th January 2027.
 - FindAPhD ad: [View the FindAPhD listing](https://www.findaphd.com/phds/project/physical-intelligence-in-robotic-materials/?p198030).
 - Jobs.ac.uk ad: [View the Jobs.ac.uk listing](https://www.jobs.ac.uk/job/DSN384/phd-studentship-physical-intelligence-in-robotic-materials).
 

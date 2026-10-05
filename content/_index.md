@@ -47,7 +47,7 @@ sections:
 
         ## New PhD Position: The physics of learning in robotic metamaterials
 
-        Application deadline: **6th November 2026**.
+        Application deadline: **6th January 2027**.
 
         [Read about the PhD position](/positions/).
 
