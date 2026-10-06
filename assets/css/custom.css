@@ -108,3 +108,61 @@
   font-weight: 700;
   line-height: 1.4;
 }
+
+/* Exact light-mode foregrounds and accents where blocks use shaded utilities.
+   Keep every override scoped so the existing dark palette remains intact. */
+:root:not(.dark) .prose {
+  --tw-prose-body: var(--hb-color-foreground);
+  --tw-prose-headings: var(--hb-color-foreground);
+  --tw-prose-bold: var(--hb-color-foreground);
+  --tw-prose-quotes: var(--hb-color-foreground);
+  --tw-prose-links: var(--color-primary-500);
+}
+
+:root:not(.dark) :is(
+  .bio-text,
+  .text-gray-600, .text-gray-700, .text-gray-800, .text-gray-900,
+  .text-zinc-600, .text-zinc-700, .text-zinc-800, .text-zinc-900,
+  .text-neutral-600, .text-neutral-700, .text-neutral-800, .text-neutral-900,
+  .text-slate-600, .text-slate-700, .text-slate-800, .text-slate-900
+) {
+  color: var(--hb-color-foreground);
+}
+
+:root:not(.dark) :is(
+  .prose a, .bio-text a,
+  .text-primary-500, .text-primary-600, .text-primary-700, .text-primary-800,
+  details > summary,
+  .nav-link:hover, .nav-dropdown-link:hover
+) {
+  color: var(--color-primary-500);
+  text-decoration-color: var(--color-primary-500);
+}
+
+/* Indicate the active page without changing the navigation's size or spacing. */
+:root:not(.dark) :is(.nav-link.active, .nav-dropdown-link.active) {
+  color: var(--hb-color-header-fg);
+  box-shadow: inset 0 -2px var(--color-primary-500);
+}
+
+/* Interest pills in biography and team blocks use the same solid accent. */
+:root:not(.dark) :is(
+  .resume-biography span.inline-block.bg-primary-50,
+  #section-team-showcase span.inline-block.bg-gray-100
+) {
+  background-color: var(--color-primary-500);
+  border-color: var(--color-primary-500);
+  color: #FFFFFF;
+}
+
+/* Solid primary buttons, including the biography block's gradient variant. */
+:root:not(.dark) :is(
+  .btn-primary,
+  a.bg-primary-500, a.bg-primary-600, a.bg-primary-700,
+  button.bg-primary-500, button.bg-primary-600, button.bg-primary-700,
+  a.bg-gradient-to-r.from-primary-600.text-white
+) {
+  background-color: var(--color-primary-500);
+  background-image: none;
+  color: #FFFFFF;
+}

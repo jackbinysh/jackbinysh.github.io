@@ -1,0 +1,21 @@
+# Light-only palette; the dark mode continues to use Hugo Blox's default pack.
+hugoblox:
+  meta:
+    format: "hugoblox-theme@1"
+    name: "Binysh Lab"
+    vendor: "binyshlab"
+    version: "1.0.0"
+  type: "light"
+  light:
+    colors:
+      primary: "#6368C2"
+      secondary: "teal"
+    surfaces:
+      background: "#FFFFFF"
+      foreground: "#202020"
+      header:
+        background: "#E0E1F3"
+        foreground: "#202020"
+      footer:
+        background: "#f3f4f6"
+        foreground: "#202020"
