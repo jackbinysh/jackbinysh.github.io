@@ -118,7 +118,14 @@ Below are some additional, relevant references candidates may wish to read:
 
 ## Fellowship applications
 
-I am very happy to support fellowship applications, please contact me directly at j.binysh@bham.ac.uk
+I am very happy to support fellowship applications, please contact me directly at j.binysh@bham.ac.uk. Below are some suitable early career fellowships, with Birmingham's internal deadline, the funder's hard deadline, and the typical career stage. Deadlines below are for 2027, and can vary by ~1 month year on year. You will want to contact me a few months before Birmingham's internal deadline.
+
+1. **[Marie Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)**: For early career researchers - I was a past recepient of one of these fellowships. Birmingham will support a select number of candidates. **Internal Birmingham Deadline: 15th July. Funder Deadline: 8th September.**
+
+2. **[1851 Research Fellowships](https://royalcommission1851.org/fellowships/research-fellowships)**: For early career researchers-typically just finishing PhD, no more than 3 years postdoctoral experience. Pretty Competitive, with ~500 applicants for 2-3 slots. **Internal Birmingham Deadline: 16th October. Funder Deadline: 20th Jan.**
+
+3. **[Leverhulme Early Career Fellowships](https://www.leverhulme.ac.uk/early-career-fellowships)**: For early career researchers. Birmingham will support a select number of candidates. **Internal Birmingham Deadline: 16th November. Funder Deadline: 18th Feb.**
+
 
 ## Postdoctoral Positions
 
