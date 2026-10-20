@@ -8,6 +8,14 @@ show_date_updated: false
 
 A collection of videos featuring our research, talks, demonstrations, and other media.
 
+## Non-reciprocal Buckling Makes Active Filaments Polyfunctional
+
+A talk by Jack at MetaMAT 2026, 21 July 2026.
+
+{{< cassyni event="VbCLcaYcTSNKHoPr9PP1F3" title="Non-reciprocal buckling makes active filaments polyfunctional" >}}
+
+[View this talk on Cassyni](https://cassyni.com/events/VbCLcaYcTSNKHoPr9PP1F3)
+
 ## Non-reciprocal Robotic Metamaterials
 
 A talk by Jack for the UK Metamaterials Network.
