@@ -24,6 +24,34 @@ A talk by Jack for the UK Metamaterials Network.
 
 [View this talk on Cassyni](https://cassyni.com/events/33GF2wyVezpm4t87kV57YZ)
 
+## Wave Coarsening Drives Time Crystallization in Mechatronic Metamaterials
+
+The four supplementary videos accompanying our [Nature paper](https://www.nature.com/articles/s41586-026-11163-6).
+
+### Supplementary Video 1 — Wave coarsening in 2D
+
+Non-reciprocal unit cells develop spontaneous oscillations. In a lattice of 37 cells, short waves grow into large, slow deformations spanning the whole material.
+
+{{< local-video src="/videos/wave-coarsening/supplementary-video-1.mp4" poster="/videos/wave-coarsening/supplementary-video-1.jpg" title="Supplementary Video 1: Wave coarsening in a 2D non-reciprocal mechatronic metamaterial" >}}
+
+### Supplementary Video 2 — Power-law coarsening
+
+Two-dimensional simulations track how spatial correlations and elastic energy evolve as the waves increase in wavelength and amplitude.
+
+{{< local-video src="/videos/wave-coarsening/supplementary-video-2.mp4" poster="/videos/wave-coarsening/supplementary-video-2.jpg" title="Supplementary Video 2: Spatial correlations suggest power-law coarsening" >}}
+
+### Supplementary Video 3 — Wave coarsening in a 1D ring
+
+A ring of 24 non-reciprocal unit cells evolves from short travelling waves into a stable, low-frequency time-crystalline state.
+
+{{< local-video src="/videos/wave-coarsening/supplementary-video-3.mp4" poster="/videos/wave-coarsening/supplementary-video-3.jpg" title="Supplementary Video 3: Wave coarsening in a 1D elastic chain with non-reciprocal interactions" >}}
+
+### Supplementary Video 4 — Frictional arrest and edge waves
+
+Friction stops waves from growing to span the material. Experiments and simulations show persistent strain defects and waves concentrated near the edges.
+
+{{< local-video src="/videos/wave-coarsening/supplementary-video-4.mp4" poster="/videos/wave-coarsening/supplementary-video-4.jpg" title="Supplementary Video 4: Frictional arrest of wave coarsening and edge waves" >}}
+
 ## Adaptive Locomotion of Active Solids
 
 A summary video of our work on [adaptive locomotion of active solids](/publications/adaptive-locomotion-of-active-solids/).

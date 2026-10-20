@@ -13,7 +13,7 @@ authors:
 ---
 
 ## Associated Publications
-- [Wave Coarsening Drives Time Crystallization in Active Solids](/publications/wave-coarsening-drives-time-crystallization-in-active-solids/)
+- [Wave Coarsening Drives Time Crystallization in Mechatronic Metamaterials](/publications/wave-coarsening-drives-time-crystallization-in-active-solids/)
 
 
 - [Active Solids Sync Up](/publications/active-solids-sync-up/)

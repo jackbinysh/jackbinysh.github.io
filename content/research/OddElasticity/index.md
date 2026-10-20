@@ -18,7 +18,7 @@ authors:
 
 - [Nonreciprocal buckling makes active filaments polyfunctional](/publications/nonreciprocal-buckling-makes-active-filaments-polyfunctional/)
 
-- [Wave Coarsening Drives Time Crystallization in Active Solids](/publications/wave-coarsening-drives-time-crystallization-in-active-solids/)
+- [Wave Coarsening Drives Time Crystallization in Mechatronic Metamaterials](/publications/wave-coarsening-drives-time-crystallization-in-active-solids/)
 
 - [Odd Living Matter Defies the Golden Rule of Mechanics](/publications/odd-living-matter-defies-the-golden-rule-of-mechanics/)
 

@@ -1,0 +1,9 @@
+{{- $src := .Get "src" -}}
+{{- $title := .Get "title" | default "Research video" -}}
+<video controls playsinline preload="none" aria-label="{{ $title }}"
+  poster="{{ .Get "poster" | relURL }}"
+  style="display: block; width: 100%; height: auto; border-radius: 0.5rem;">
+  <source src="{{ $src | relURL }}" type="video/mp4">
+  Your browser does not support embedded video. <a href="{{ $src | relURL }}">Download the video</a>.
+</video>
+<p><a href="{{ $src | relURL }}" download>Download MP4</a></p>
