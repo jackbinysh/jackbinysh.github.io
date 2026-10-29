@@ -26,6 +26,10 @@ A talk by Jack for the UK Metamaterials Network.
 
 ## Wave Coarsening Drives Time Crystallization in Mechatronic Metamaterials
 
+A video introducing our work on wave coarsening, published in [Nature](https://www.nature.com/articles/s41586-026-11163-6).
+
+{{< youtube id="NKO8esGt8H8" title="Wave coarsening in mechatronic metamaterials" >}}
+
 The four supplementary videos accompanying our [Nature paper](https://www.nature.com/articles/s41586-026-11163-6).
 
 ### Supplementary Video 1 — Wave coarsening in 2D

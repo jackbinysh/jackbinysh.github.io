@@ -42,6 +42,16 @@
           </div>
         {{ end }}
       {{ end }}
+      {{ if $item.Params.youtube_id }}
+        <iframe
+          src="https://www.youtube.com/embed/{{ $item.Params.youtube_id }}"
+          title="{{ $item.Title }}"
+          loading="lazy"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen
+          style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;"></iframe>
+      {{ else }}
       {{ with $resource }}
         {{/*
           Image processing gate:
@@ -99,6 +109,8 @@
         </a>
       {{end}}
       
+      {{ end }}
+
       <!-- Subtle overlay for better text contrast (allow clicks to pass through) -->
       <div class="absolute inset-0 pointer-events-none bg-gradient-to-t from-black/10 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
     </div>

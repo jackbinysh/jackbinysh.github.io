@@ -53,6 +53,14 @@ sections:
 
         ---
 
+        <iframe src="https://www.youtube.com/embed/NKO8esGt8H8" title="Wave coarsening in mechatronic metamaterials" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="display: block; width: 100%; aspect-ratio: 16 / 9; border: 0; border-radius: 0.5rem;"></iframe>
+
+        ## Wave Coarsening out in Nature now!
+
+        **Associated publication:** [Wave Coarsening Drives Time Crystallization in Mechatronic Metamaterials](/publications/wave-coarsening-drives-time-crystallization-in-active-solids/).
+
+        ---
+
         <img src="/news/twistedfibrenews/featured.png" alt="Twisted optical fibres research featured in Nature Photonics" loading="lazy">
 
         ## Twisted optical fibres on the cover of Nature Photonics

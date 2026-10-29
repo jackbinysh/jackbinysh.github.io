@@ -8,6 +8,8 @@ sections:
     content:
       page_type: news # where to search in teh file system 
       title: News
+      sort_by: Weight
+      sort_ascending: true
     design:
       view: article-grid
       # Choose a layout view
