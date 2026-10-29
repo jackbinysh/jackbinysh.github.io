@@ -126,6 +126,7 @@ I am very happy to support fellowship applications, please contact me directly a
 
 3. **[Leverhulme Early Career Fellowships](https://www.leverhulme.ac.uk/early-career-fellowships)**: For early career researchers. Birmingham will support a select number of candidates. **Internal Birmingham Deadline: 16th November. Funder Deadline: 18th Feb.**
 
+4. **[Royal Society Newton International Fellowships](https://royalsociety.org/grants/newton-international/)**: For international early career researchers working outside the UK, without UK citizenship, and with no more than 5 years of full-time postdoctoral experience. Applicants must have passed their PhD viva by the funder deadline. Provides up to £280,000 for a two-year fellowship. School nomination is required; please contact me well in advance to discuss your application. **Internal Birmingham Deadline: 21st January 2027, 5pm. Funder Deadline: expected March 2027, to be confirmed when the scheme opens in January.**
 
 ## Postdoctoral Positions
 
