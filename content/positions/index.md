@@ -132,11 +132,24 @@ I am very happy to support fellowship applications, please contact me directly a
 
 ## Visiting and Summer students
 
-In Summer 2027 I will host several summer projects for interested undergraduates through [Birmingham's Summer Research Programme](https://www.birmingham.ac.uk/study/international/summer-research). If you are interested in summer projects, please get in touch well before the deadline. Typcial deadlines (from 2026 summer school website) are:
+In Summer 2027 I will host undergraduate projects through [Birmingham's Summer Research Programme](https://www.birmingham.ac.uk/study/international/summer-research). Browse the [available Engineering projects](https://www.birmingham.ac.uk/study/international/summer-research/engineering) and [get in touch](mailto:j.binysh@bham.ac.uk) to discuss your interests.
 
-- The deadline for partners' nominations is 15 April 2026.
-- The deadline for last applications is 1 May 2026.
-- The last payment deadline is 21 May 2026 (TBC).
+Projects last seven weeks and normally start on **21 June 2027**.
+
+### How to apply
+
+Applications open on **1 December 2026**. Students at partner universities must first be nominated by their international or study abroad office; other students apply directly.
+
+Submit a transcript, a personal statement (up to 400 words) and English language evidence where required. See Birmingham's [How to apply guidance](https://www.birmingham.ac.uk/study/international/summer-research/how-to-apply) and [entry requirements](https://www.birmingham.ac.uk/study/international/summer-research/entry-requirements) for details.
+
+### 2027 deadlines
+
+| Application round | Partner nomination deadline | Application deadline | Payment deadline |
+| --- | --- | --- | --- |
+| Round 1 (early bird) | 1 February 2027 | 15 February 2027 | 25 April 2027 |
+| Round 2 | 1 March 2027 | 15 March 2027 | 25 April 2027 |
+
+Round 1 offers priority for project allocation and a £250 early bird discount. See [dates and fees](https://www.birmingham.ac.uk/study/international/summer-research/dates-fees) for programme costs and accommodation.
 
 <!--
 . Here is a list of possible opportunities:
