@@ -2,7 +2,7 @@
 title: "Wave Coarsening out in Nature now!"
 summary: "**Associated publication:** [Wave Coarsening Drives Time Crystallization in Mechatronic Metamaterials](/publications/wave-coarsening-drives-time-crystallization-in-active-solids/)."
 date: 2026-10-29
-weight: -10 # Place immediately below the PhD advert.
+weight: -10 # Keep above the older research news.
 youtube_id: NKO8esGt8H8
 ---
 

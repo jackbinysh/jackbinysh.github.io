@@ -1,12 +1,25 @@
 ---
 title: Media
-summary: Videos from the Binysh Lab.
+summary: Audio and videos from the Binysh Lab.
 date: 2026-08-04
 show_date_updated: false
 ---
 
 
-A collection of videos featuring our research, talks, demonstrations, and other media.
+A collection of audio and videos featuring our research, talks, demonstrations, and other media.
+
+## Robots adapting on AM 1150
+
+AM 1150 · 12 November 2026.
+
+Jack talking about our recent work on [wave coarsening](/publications/wave-coarsening-drives-time-crystallization-in-active-solids/).
+
+<audio controls preload="none" aria-label="Robots adapting on AM 1150" style="display: block; width: 100%;">
+  <source src="https://www.am1150.ca/wp-content/uploads/2026/11/11.12.26-robots-adapting_01.mp3" type="audio/mpeg">
+  Your browser does not support embedded audio.
+</audio>
+
+[Listen to the recording (MP3)](https://www.am1150.ca/wp-content/uploads/2026/11/11.12.26-robots-adapting_01.mp3).
 
 ## Non-reciprocal Buckling Makes Active Filaments Polyfunctional
 

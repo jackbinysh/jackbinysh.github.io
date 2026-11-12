@@ -53,6 +53,21 @@ sections:
 
         ---
 
+        ## Robots adapting on AM 1150
+
+        AM 1150 · 12 November 2026.
+
+        Jack talking about our recent work on [wave coarsening](/publications/wave-coarsening-drives-time-crystallization-in-active-solids/).
+
+        <audio controls preload="none" aria-label="Robots adapting on AM 1150" style="display: block; width: 100%;">
+          <source src="https://www.am1150.ca/wp-content/uploads/2026/11/11.12.26-robots-adapting_01.mp3" type="audio/mpeg">
+          Your browser does not support embedded audio.
+        </audio>
+
+        [Listen to the recording (MP3)](https://www.am1150.ca/wp-content/uploads/2026/11/11.12.26-robots-adapting_01.mp3).
+
+        ---
+
         <iframe src="https://www.youtube.com/embed/NKO8esGt8H8" title="Wave coarsening in mechatronic metamaterials" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="display: block; width: 100%; aspect-ratio: 16 / 9; border: 0; border-radius: 0.5rem;"></iframe>
 
         ## Wave Coarsening out in Nature now!
