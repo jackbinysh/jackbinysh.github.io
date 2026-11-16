@@ -118,6 +118,8 @@ Below are some additional, relevant references candidates may wish to read:
 
 ## Fellowship applications
 
+[![Hand-drawn January–December timeline showing Birmingham's internal fellowship deadlines above the bar and external funder deadlines below.](fellowship-deadlines.png)](fellowship-deadlines.png)
+
 I am very happy to support fellowship applications, please contact me directly at j.binysh@bham.ac.uk. Below are some suitable early career fellowships, with Birmingham's internal deadline, the funder's hard deadline, and the typical career stage. Deadlines below are for 2027, and can vary by ~1 month year on year. You will want to contact me a few months before Birmingham's internal deadline.
 
 1. **[Marie Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)**: For early career researchers - I was a past recepient of one of these fellowships. Birmingham will support a select number of candidates. **Internal Birmingham Deadline: 15th July. Funder Deadline: 8th September.**
@@ -126,7 +128,9 @@ I am very happy to support fellowship applications, please contact me directly a
 
 3. **[Leverhulme Early Career Fellowships](https://www.leverhulme.ac.uk/early-career-fellowships)**: For early career researchers. Birmingham will support a select number of candidates. **Internal Birmingham Deadline: 16th November. Funder Deadline: 18th Feb.**
 
-4. **[Royal Society Newton International Fellowships](https://royalsociety.org/grants/newton-international/)**: For international early career researchers working outside the UK, without UK citizenship, and with no more than 5 years of full-time postdoctoral experience. Applicants must have passed their PhD viva by the funder deadline. Provides up to £280,000 for a two-year fellowship. School nomination is required; please contact me well in advance to discuss your application. **Internal Birmingham Deadline: 21st January 2027, 5pm. Funder Deadline: expected March 2027, to be confirmed when the scheme opens in January.**
+4. **[Royal Society Newton International Fellowships](https://royalsociety.org/grants/newton-international/)**: For international early career researchers working outside the UK, without UK citizenship, and with no more than 5 years of full-time postdoctoral experience. Applicants must have passed their PhD viva by the funder deadline. Provides up to £280,000 for a two-year fellowship. School nomination is required; please contact me well in advance to discuss your application. **Internal Birmingham (School) Deadline: 15th January 2027, 5pm (UK time). Funder Deadline: [10th March 2027](https://royalsociety.org/grants/application-dates/).**
+
+   All nominations must be submitted through the [School fellowship nomination form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=z8oksN7eQUKhXDyX1VPp86twA5_czhdJnPEYyXf139dUMVFYWkhXMDZMTE9MQkdXTkhaRlFLTEhFQS4u). The School will peer review and rank applications before nominating candidates to the College by 29th January 2027. Late nominations or nominations submitted outside the form will not be considered.
 
 ## Postdoctoral Positions
 
